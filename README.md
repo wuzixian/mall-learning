@@ -57,6 +57,8 @@ mall学习教程，架构、业务、技术要点全方位解析。mall项目（
 - [前后端分离项目，如何解决跨域问题](https://juejin.im/post/5d4c162351882560b9545358)
 - [Java 8都出那么久了，Stream API了解下？](https://juejin.im/post/5d6d2016e51d453c135c5b25)
 - [仅需四步，整合SpringSecurity+JWT实现登录认证！](https://juejin.im/post/5df0e79bf265da33dd2f52af)
+- [前后端分离项目，如何优雅实现文件存储！](https://juejin.im/post/5e0ca2266fb9a0484a45969c)
+- [前后端分离项目，引入Spring Cloud Gateway遇到的一个问题！](https://juejin.im/post/5e13248e5188253ab849d125)
 
 ## 部署篇
 > mall开发及生产环境的搭建
@@ -64,6 +66,7 @@ mall学习教程，架构、业务、技术要点全方位解析。mall项目（
 - [mall在Windows环境下的部署](https://juejin.im/post/5d1362de51882551fe065b61)
 - [mall在Linux环境下的部署（基于Docker容器）](https://juejin.im/post/5d1802ab6fb9a07f0a2df5ae)
 - [mall在Linux环境下的部署（基于Docker Compose）](https://juejin.im/post/5d1c98d66fb9a07ebf4b8ad5)
+- [mall在Linux环境下的自动化部署（基于Jenkins）](https://juejin.im/post/5e15d7b16fb9a0484f5c3931)
 - [mall前端项目的安装与部署](https://juejin.im/post/5d2c7c6b518825076377d7b9)
 - [mall-swarm在Windows环境下的部署](https://juejin.im/post/5de3c1a35188256e855b6e54)
 - [mall-swarm在Linux环境下的部署（基于Docker容器）](https://juejin.im/post/5de65bffe51d4557f71a5ec1)
@@ -113,6 +116,8 @@ mall学习教程，架构、业务、技术要点全方位解析。mall项目（
 - [虚拟机安装及使用Linux，看这一篇就够了！](https://juejin.im/post/5ddfd1665188256ec024cb7c)
 - [Nginx的这些妙用，你肯定有不知道的！](https://juejin.im/post/5dee499151882512444014eb)
 - [使用Jenkins一键打包部署SpringBoot应用，就是这么6！](https://juejin.im/post/5df780d3e51d4557ff140b30)
+- [使用Jenkins一键打包部署前端应用，就是这么6！](https://juejin.im/post/5e0360e951882512400ae872)
+- [Github标星19K+Star，10分钟自建对象存储服务！](https://juejin.im/post/5e09f8fbe51d4575a46f05e5)
 
 
 ## 公众号

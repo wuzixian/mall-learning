@@ -32,11 +32,14 @@
   * [前后端分离项目，如何解决跨域问题](technology/springboot_cors.md)
   * [Java 8都出那么久了，Stream API了解下？](technology/java_stream.md)
   * [仅需四步，整合SpringSecurity+JWT实现登录认证！](technology/springsecurity_use.md)
+  * [前后端分离项目，如何优雅实现文件存储！](technology/minio_use.md)
+  * [前后端分离项目，引入Spring Cloud Gateway遇到的一个问题！](technology/gateway_cors.md)
 
 * 部署篇
   * [mall在Windows环境下的部署](deploy/mall_deploy_windows.md)
   * [mall在Linux环境下的部署（基于Docker容器）](deploy/mall_deploy_docker.md)
   * [mall在Linux环境下的部署（基于Docker Compose）](deploy/mall_deploy_docker_compose.md)
+  * [mall在Linux环境下的自动化部署（基于Jenkins）](deploy/mall_deploy_jenkins.md)
   * [mall前端项目的安装与部署](deploy/mall_deploy_web.md)
   * [mall-swarm在Windows环境下的部署](deploy/mall_swarm_deploy_windows.md)
   * [mall-swarm在Linux环境下的部署（基于Docker容器）](deploy/mall_swarm_deploy_docker.md)  
@@ -59,3 +62,5 @@
   * [虚拟机安装及使用Linux，看这一篇就够了！](reference/linux_install.md)
   * [Nginx的这些妙用，你肯定有不知道的！](reference/nginx.md)
   * [使用Jenkins一键打包部署SpringBoot应用，就是这么6！](reference/jenkins.md)
+  * [使用Jenkins一键打包部署前端应用，就是这么6！](reference/jenkins_vue.md)
+  * [Github标星19K+Star，10分钟自建对象存储服务！](reference/minio.md)
