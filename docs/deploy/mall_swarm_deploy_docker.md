@@ -1,4 +1,4 @@
-mall项目全套学习教程连载中，[关注公众号](#公众号)第一时间获取。
+学习不走弯路，[关注公众号](#公众号) 回复「学习路线」，获取mall项目专属学习路线！
 
 # mall-swarm在Linux环境下的部署（基于Docker容器）
 
@@ -76,7 +76,7 @@ logstash-plugin install logstash-codec-json_lines
 docker-compose -f docker-compose-app.yml up -d
 ```
 
-- 启动成功后，可以查看API文档信息，访问地址：http://192.168.3.101:8201
+- 启动成功后，可以查看API文档信息，访问地址：http://192.168.3.101:8201/doc.html
 
 ![](../images/mall_swarm_run_05.png)
 
